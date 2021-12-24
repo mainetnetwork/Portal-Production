@@ -1,0 +1,13 @@
+<svg width="64" height="104" viewBox="0 0 64 104" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M4.65039 78C6.97039 88.65 15.3504 97.03 26.0004 99.35" stroke="#2F2E41" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M38 99.35C48.65 97.03 57.03 88.65 59.35 78" stroke="#2F2E41" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4.65039 66C6.97039 55.35 15.3504 46.97 26.0004 44.65" stroke="#2F2E41" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M38 44.65C48.65 46.97 57.03 55.35 59.35 66" stroke="#2F2E41" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4 75C5.65685 75 7 73.6569 7 72C7 70.3431 5.65685 69 4 69C2.34315 69 1 70.3431 1 72C1 73.6569 2.34315 75 4 75Z" fill="#F55681"/>
+<path d="M60 75C61.6569 75 63 73.6569 63 72C63 70.3431 61.6569 69 60 69C58.3431 69 57 70.3431 57 72C57 73.6569 58.3431 75 60 75Z" fill="#F55681"/>
+<path d="M32 103C33.6569 103 35 101.657 35 100C35 98.3431 33.6569 97 32 97C30.3431 97 29 98.3431 29 100C29 101.657 30.3431 103 32 103Z" fill="#F55681"/>
+<path d="M32 47C33.6569 47 35 45.6569 35 44C35 42.3431 33.6569 41 32 41C30.3431 41 29 42.3431 29 44C29 45.6569 30.3431 47 32 47Z" fill="#F55681"/>
+<path d="M46.0298 58.51L33.7098 53.46C32.9398 53.14 32.0698 53.14 31.2998 53.46L30.0098 53.99L41.0398 58.51C42.2298 59 43.0098 60.16 43.0098 61.45V77.6C43.0098 83.03 35.3698 89.04 30.0098 90.68C30.9298 90.96 31.7798 91.12 32.5098 91.12C37.5198 91.12 48.0098 83.97 48.0098 77.61V61.46C47.9998 60.16 47.2198 59 46.0298 58.51Z" fill="#EBEFFD"/>
+<path d="M48 77.6C48 83.96 37.51 91.11 32.5 91.11C27.49 91.11 17 83.96 17 77.6V61.45C17 60.16 17.78 59 18.97 58.51L31.29 53.46C32.06 53.14 32.93 53.14 33.7 53.46L46.02 58.51C47.21 59 47.99 60.16 47.99 61.45V77.6H48Z" stroke="#2F2E41" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M27 72L31 76L40 68" stroke="#F55681" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

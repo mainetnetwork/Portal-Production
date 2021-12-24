@@ -1,0 +1,16 @@
+<svg width="64" height="104" viewBox="0 0 64 104" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M59.11 101H51.8999C51.4099 101 51.0099 100.6 51.0099 100.11V48.89C50.9999 48.4 51.4 48 51.89 48H59.1C59.6 48 60 48.4 60 48.89V100.1C60 100.6 59.6 101 59.11 101Z" fill="#EBEFFD"/>
+<path d="M58.51 101H36.49C35.67 101 35 100.33 35 99.51V49.49C35 48.67 35.67 48 36.49 48H58.51C59.33 48 60 48.67 60 49.49V99.51C60 100.33 59.33 101 58.51 101Z" stroke="#2F2E41" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M49.3902 93H4.60023C3.71023 93 2.99023 92.28 2.99023 91.39V62.61C2.99023 61.72 3.71023 61 4.60023 61H49.3902C50.2802 61 51.0002 61.72 51.0002 62.61V91.4C51.0002 92.28 50.2802 93 49.3902 93Z" fill="white"/>
+<path d="M50.4302 93H45.5602C45.2502 93 44.9902 92.75 44.9902 92.43V61.57C44.9902 61.26 45.2402 61 45.5602 61H50.4302C50.7402 61 51.0002 61.25 51.0002 61.57V92.44C51.0002 92.75 50.7502 93 50.4302 93Z" fill="#EBEFFD"/>
+<path d="M49.3902 93H4.60023C3.71023 93 2.99023 92.28 2.99023 91.39V62.61C2.99023 61.72 3.71023 61 4.60023 61H49.3902C50.2802 61 51.0002 61.72 51.0002 62.61V91.4C51.0002 92.28 50.2802 93 49.3902 93Z" stroke="#2F2E41" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M29.5 93H21.5V101H29.5V93Z" stroke="#2F2E41" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.75 101H36.25" stroke="#2F2E41" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17 75H12V89H17V75Z" fill="#F55681"/>
+<path d="M26 79H21V89H26V79Z" fill="#F55681"/>
+<path d="M35 83H30V89H35V83Z" fill="#F55681"/>
+<path d="M6.9707 69.1299L7.0007 88.9999H43.0007" stroke="#2F2E41" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M13.3809 65.8601L21.5009 72.0001L24.9909 68.0001L38.8909 80.0601" stroke="#2F2E41" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M41.3209 81.4599L40.7409 78.1999C40.6409 77.6099 39.9109 77.3899 39.4909 77.8099L36.8009 80.4999C36.3809 80.9199 36.6109 81.6399 37.1909 81.7499L40.4509 82.3299C40.9709 82.4099 41.4109 81.9699 41.3209 81.4599Z" fill="#2F2E41"/>
+<path d="M55 55C56.1046 55 57 54.1046 57 53C57 51.8954 56.1046 51 55 51C53.8954 51 53 51.8954 53 53C53 54.1046 53.8954 55 55 55Z" fill="#2F2E41"/>
+</svg>

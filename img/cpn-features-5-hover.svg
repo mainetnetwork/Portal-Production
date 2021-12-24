@@ -1,0 +1,13 @@
+<svg width="64" height="104" viewBox="0 0 64 104" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M45 96H13C11.9 96 11 95.1 11 94V44C11 42.9 11.9 42 13 42H45C46.1 42 47 42.9 47 44V94C47 95.1 46.1 96 45 96Z" fill="white" stroke="#2F2E41" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M29 61C31.2091 61 33 59.2091 33 57C33 54.7909 31.2091 53 29 53C26.7909 53 25 54.7909 25 57C25 59.2091 26.7909 61 29 61Z" stroke="#F55681" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23.3498 72C21.9898 72 20.9998 70.67 21.4398 69.38C22.5198 66.25 25.4998 64 28.9998 64C32.4998 64 35.4798 66.25 36.5598 69.38C36.9998 70.66 36.0098 72 34.6498 72H23.3498Z" stroke="#F55681" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M34 46H23C21.74 46 20.56 45.41 19.8 44.4L18 42H39L37.2 44.4C36.44 45.41 35.26 46 34 46Z" fill="#2F2E41"/>
+<path d="M20 77H37" stroke="#2F2E41" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11 90H47" stroke="#2F2E41" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M42 88V85C42 82.24 44.24 80 47 80C49.76 80 52 82.24 52 85V88" fill="white"/>
+<path d="M42 88V85C42 82.24 44.24 80 47 80C49.76 80 52 82.24 52 85V88" stroke="#2F2E41" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M50.1402 102H43.8502C41.1702 102 38.9902 99.83 38.9902 97.14V92.85C38.9902 90.17 41.1602 87.99 43.8502 87.99H50.1402C52.8202 87.99 55.0002 90.16 55.0002 92.85V97.14C55.0002 99.83 52.8302 102 50.1402 102Z" fill="white" stroke="#2F2E41" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M47 96C48.1046 96 49 95.1046 49 94C49 92.8954 48.1046 92 47 92C45.8954 92 45 92.8954 45 94C45 95.1046 45.8954 96 47 96Z" fill="#F55681"/>
+<path d="M47 99C46.45 99 46 98.55 46 98V95H48V98C48 98.55 47.55 99 47 99Z" fill="#F55681"/>
+</svg>
